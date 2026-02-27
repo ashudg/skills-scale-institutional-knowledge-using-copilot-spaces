@@ -3,6 +3,8 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+> **Role owner:** The [Deployment Coordinator](octoacme-roles-and-personas.md#deployment-coordinator) is accountable for executing this process. See also the [Deployment Readiness Checklist](checklists/deployment-readiness-checklist.md).
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements
